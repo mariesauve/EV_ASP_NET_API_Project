@@ -1,0 +1,6 @@
+@WebAPICSharpEVProject_HostAddress = http://localhost:5213
+
+GET {{WebAPICSharpEVProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
